@@ -8,6 +8,14 @@ body{
     font-size: 18px;
 }
 
+main{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+
+}
+
 hr{
     width: 100%;
 }
